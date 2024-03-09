@@ -35,7 +35,6 @@
             "keyboard_sounds":
             {
                 "TYPING_BACKSPACE":     [ "keyboard/backspace.wav" ],
-                "TYPING_ENTER":         [ "keyboard/enter.wav" ],
                 "TYPING_SPACE":         [ "keyboard/space.wav" ]
             },
             "theme":
@@ -66,7 +65,7 @@
                     "gx_secondary_base":
                     {
                         "h": 175,
-                        "s": 60,
+                        "s": 100,
                         "l": 67
                     }
                 }
